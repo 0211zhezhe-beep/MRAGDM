@@ -82,15 +82,3 @@ baseline/input_data/
 - Figures are stored in `figure/`.
 - Additional plotting and analysis code is available in `baseline/figure.ipynb`.
 
-## GitHub Upload
-
-Run the following commands in the project root directory:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/your-repository.git
-git push -u origin main
-```
