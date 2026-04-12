@@ -1,6 +1,9 @@
 
 This repository contains the code, data, baseline implementations, figures, and result files for MRAGDM experiments.
-<img width="839" height="899" alt="image" src="https://github.com/user-attachments/assets/8fd38167-0ffc-4e8c-8afe-fc36d21a475f" />
+<img width="1136" height="1213" alt="image" src="https://github.com/user-attachments/assets/3aa5b955-6c78-4519-b5a5-6c2d8c86c2da" />
+
+
+
 Overall framwork of MRAGDM.
 
 ## Repository Structure
