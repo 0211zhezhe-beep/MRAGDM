@@ -2,7 +2,7 @@
 This repository contains the code, data, baseline implementations, figures, and result files for MRAGDM experiments.
 <img width="1136" height="1213" alt="image" src="https://github.com/user-attachments/assets/3aa5b955-6c78-4519-b5a5-6c2d8c86c2da" />
 
-
+Alt text: Schematic overview of MRAGDM, including genetic feature processing, heterogeneous network construction from PPI and ncRNA interactions, relation-specific graph diffusion with restart and edge attention, coupling attention fusion, and final prediction of cancer versus non-cancer genes.
 
 Overall framwork of MRAGDM.
 
